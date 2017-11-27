@@ -9,27 +9,3 @@ output:
 
 
 
-Toujours sur la base de données Ensembl, téléchargez, au format FASTA la séquence ADNc du transcrit identifié au cours précédent.  
-Utilisez le logiciel en ligne [ExPASy](https://web.expasy.org/translate/) afin de déterminer la séquence en acides-aminés.  
-
-Le logiciel fournit 6 réponses : 5'3' Frame 1-3 et 3'5' Frame 1-3.
-
-1. Question 1 : Selon vous, laquelle de ces séquences correspond à celle de la protéine SPINK2 ? Pourquoi ?  
-
-
-Vous cherchez desormais à séquencer l'exon 2 de ce transcrit.  
-
-
-2. Question 2 : Quel est l'identifiant de cet exon sur la base de données Ensembl (ENSExxxxx) ?  
-3. Question 3 : Quel est la taille de cet exon ?  
-
-Rendez-vous sur le logiciel en ligne [Primer3web](http://primer3.ut.ee/).  
-Collez dans la case prévue à cet effet la séquence de l'exon deux que vous entourerez de crochets pour indiquer qu'elle est votre cible (ex : [ATTC.....GGCCGTA]).
-Collez ensuite, de part et d'autre de cette séquence la fin de l'intron 1 ($\simeq$ 3,5 lignes de séquence) et le début de l'intron 2 ($\simeq$ 3 lignes de séquence).   
-Cliquez ensuite sur le bouton ```Pick Primers```  
-
-4. Question 4 : À votre avis, quel est l'intérêt d'avoir collé les séquences introniques flanquants l'exon 2 ?  
-5. Question 5 : Collez les séquences des Primers que vous avez obtenues. Quelle est leur température de fusion ? 
-6. Question 6 : Quelle est la taille, en nucléotides, de la région séquencée ?  
-
-
